@@ -15,6 +15,7 @@ Có thể lấy proxy theo định dạng ví dụ:
 http://HOST:8000/api/get_proxy?access_key=TOKEN&format=HOST|PORT|username|password&delimiter=:
 
 HOST thay bằng: host_public hoặc host_local
+
 PORT thay bằng: port_http hoặc port_socks5
 
 2. API Đổi IP của Proxy
