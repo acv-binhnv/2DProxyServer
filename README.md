@@ -12,11 +12,11 @@ API
 http://HOST:8000/api/get_proxy?access_key=TOKEN
 
 Có thể lấy proxy theo định dạng ví dụ:
-http://HOST:8000/api/get_proxy?access_key=TOKEN&format=HOST|PORT|username|password&delimiter=:
+http://HOST:8000/api/get_proxy?access_key=TOKEN&format=HOST_PROXY|PORT_PROXY|username|password&delimiter=:
 
-HOST thay bằng: host_public hoặc host_local
+HOST_PROXY thay bằng: host_public hoặc host_local
 
-PORT thay bằng: port_http hoặc port_socks5
+PORT_PROXY thay bằng: port_http hoặc port_socks5
 
 2. API Đổi IP của Proxy
 http://HOST:8000/api/change_ip?access_key=TOKEN
