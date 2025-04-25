@@ -3,7 +3,7 @@
 Để vào trang quản lý truy cập http://xxx.2dproxy.com:8000 hoặc 
 qua IP Public http://IP_PUBLIC:8000
 
-Có thể truy cập proxy từ bên ngoài qua tên miền xxx.2dproxy.com hoặc IP_PUBLIC
+Có thể truy cập proxy từ bên ngoài qua tên miền xxx.2dproxy.com hoặc IP_PUBLIC hoặc IP_LOCAL
 
 Quý khách đổi mật khẩu mặc định vào trang quản lý và key, mật khẩu của proxy để bảo mật
 
@@ -27,7 +27,7 @@ http://HOST:8000/api/change_ip?access_key=TOKEN
 TOKEN thay bằng: Token tài khoản sẽ áp dụng cho tất cả proxy của tài khoản (truy cập thông tin tài khoản để lấy) hoặc 
 Key cụ thể của 1 proxy sẽ áp dụng cho proxy (mỗi proxy có key cụ thể)
 
-HOST thay bằng: xxx.2dproxy.com hoặc IP_PUBLIC
+HOST thay bằng: xxx.2dproxy.com hoặc IP_PUBLIC hoặc IP_LOCAL
 
 Lưu ý: Với phần mềm chạy trên máy ảo, máy ảo phải chạy để duy trì hoạt động của proxy và máy chính mới có mạng, Nếu tắt máy hãy tắt máy ảo trước và tắt máy tính sau
 
