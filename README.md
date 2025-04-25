@@ -12,6 +12,9 @@ API
 http://HOST:8000/api/get_proxy?access_key=TOKEN
 
 Có thể lấy proxy theo định dạng ví dụ:
+
+Muốn lấy danh sách proxy dạng ip:port:username:password thì chạy api dưới
+
 http://HOST:8000/api/get_proxy?access_key=TOKEN&format=HOST_PROXY|PORT_PROXY|username|password&delimiter=:
 
 HOST_PROXY thay bằng: host_public hoặc host_local
