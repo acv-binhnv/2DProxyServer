@@ -29,6 +29,8 @@ Key cụ thể của 1 proxy sẽ áp dụng cho proxy (mỗi proxy có key cụ
 
 HOST thay bằng: xxx.2dproxy.com hoặc IP_PUBLIC hoặc IP_LOCAL
 
-Lưu ý: Với phần mềm chạy trên máy ảo, máy ảo phải chạy để duy trì hoạt động của proxy và máy chính mới có mạng, Nếu tắt máy hãy tắt máy ảo trước và tắt máy tính sau
-
+Lưu ý: 
+- Với phần mềm chạy trên máy ảo, máy ảo phải chạy để duy trì hoạt động của proxy và máy chính mới có mạng, Nếu tắt máy hãy tắt máy ảo trước và tắt máy tính sau. 
+- Trường hợp bị tắt nguồn đột ngột như mất điện dịch vụ đang chạy có thể bị lỗi nếu không thấy proxy lên Quý khách vào từng card mạng trong phần Networks -> Ticks Restart -> Cập nhật lại và kiểm tra lại sau vài phút xem proxy đã lên chưa
+- 
 # Cần hỗ trợ thêm vui lòng chat telegram: @net_247
