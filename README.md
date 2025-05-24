@@ -7,7 +7,7 @@ Có thể truy cập proxy từ bên ngoài qua tên miền xxx.2dproxy.com ho�
 
 Thiết bị cùng mạng Lan nội bộ có thể sử dụng IP LOCAL
 
-Quý khách đổi mật khẩu mặc định vào trang quản lý và key, mật khẩu của proxy để bảo mật và tự quản lý
+Quý khách đổi mật khẩu mặc định vào trang quản lý, đổi key tài khoản, đổi key proxy, đổi mật khẩu của proxy để bảo mật và tự quản lý
 
 
 API TÍCH HỢP
