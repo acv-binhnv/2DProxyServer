@@ -10,6 +10,7 @@ Thiết bị cùng mạng Lan nội bộ có thể sử dụng IP LOCAL
 Quý khách đổi mật khẩu mặc định vào trang quản lý, đổi key tài khoản, đổi key proxy, đổi mật khẩu của proxy để bảo mật và tự quản lý
 
 =================================================
+
 API TÍCH HỢP
 
 Một số tham số chung dùng trong các API cần thay thế:
@@ -36,6 +37,8 @@ Tham số delimiter=:  : ở đây là ký tự mong muốn để ngăn cách gi
 
 2. API Đổi IP của Proxy
 http://HOST:8000/api/change_ip?access_key=TOKEN
+
+====================================================
 
 Lưu ý: 
 - Với phần mềm chạy trên máy ảo, máy ảo phải chạy để duy trì hoạt động của proxy và máy chính mới có mạng, mới khởi động phần mềm có thể mất vài phút để tạo kết nối và máy chính mới có mạng, Nếu tắt máy hãy tắt máy ảo trước và tắt máy tính sau.
