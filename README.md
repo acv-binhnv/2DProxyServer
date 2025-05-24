@@ -1,7 +1,7 @@
 ==== Hướng dẫn sử dụng phần mềm tạo proxy 2D Proxy Server ====
 
 Để vào trang quản lý truy cập http://xxx.2dproxy.com:8000 hoặc 
-qua IP Public http://IP_PUBLIC:8000
+qua IP Public http://IP_PUBLIC:8000 , nội dung web được lưu hoàn toàn trên máy cài pm không qua server của chúng tôi, pm hoạt động web và proxy mới hoạt động, tên miền được hỗ trợ sẽ trỏ thẳng về IP Public của máy cài pm giúp tiện truy cập khi IP Public bị thay đổi (Mỗi lần chạy lại phần mềm IP Public sẽ thay đổi hoặc do IP động nhà mạng sau một thời gian sẽ có thay đổi)
 
 Có thể truy cập proxy từ bên ngoài qua tên miền xxx.2dproxy.com hoặc IP PUBLIC
 
