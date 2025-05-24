@@ -9,8 +9,9 @@ Thiết bị cùng mạng Lan nội bộ có thể sử dụng IP LOCAL
 
 Quý khách đổi mật khẩu mặc định vào trang quản lý, đổi key tài khoản, đổi key proxy, đổi mật khẩu của proxy để bảo mật và tự quản lý
 
-
+=================================================
 API TÍCH HỢP
+
 Một số tham số chung dùng trong các API cần thay thế:
 
 TOKEN thay bằng: Token tài khoản sẽ áp dụng cho tất cả proxy của tài khoản (truy cập thông tin tài khoản để lấy) hoặc 
