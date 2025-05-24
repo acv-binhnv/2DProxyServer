@@ -20,11 +20,11 @@ Muốn lấy danh sách proxy theo định dạng ip:port:username:password ho�
 
 http://HOST:8000/api/get_proxy?access_key=TOKEN&format=HOST_PROXY|PORT_PROXY|username|password&delimiter=:
 
-HOST_PROXY thay bằng: host_public hoặc host_local
+Tham số HOST_PROXY thay bằng: host_public hoặc host_local
 
-PORT_PROXY thay bằng: port_http hoặc port_socks5
+Tham sốPORT_PROXY thay bằng: port_http hoặc port_socks5
 
-delimiter=: , : ở đây là ký tự mong muốn để ngăn cách giữa các thông tin
+Tham số delimiter=:  : ở đây là ký tự mong muốn để ngăn cách giữa các thông tin
 
 2. API Đổi IP của Proxy
 http://HOST:8000/api/change_ip?access_key=TOKEN
