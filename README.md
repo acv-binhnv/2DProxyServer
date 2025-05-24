@@ -4,6 +4,7 @@
 qua IP Public http://IP_PUBLIC:8000
 
 Có thể truy cập proxy từ bên ngoài qua tên miền xxx.2dproxy.com hoặc IP PUBLIC
+
 Thiết bị cùng mạng Lan nội bộ có thể sử dụng IP LOCAL
 
 Quý khách đổi mật khẩu mặc định vào trang quản lý và key, mật khẩu của proxy để bảo mật và tự quản lý
