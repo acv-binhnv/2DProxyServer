@@ -3,11 +3,13 @@
 Để vào trang quản lý truy cập http://xxx.2dproxy.com:8000 hoặc 
 qua IP Public http://IP_PUBLIC:8000
 
-Có thể truy cập proxy từ bên ngoài qua tên miền xxx.2dproxy.com hoặc IP_PUBLIC hoặc IP_LOCAL
+Có thể truy cập proxy từ bên ngoài qua tên miền xxx.2dproxy.com hoặc IP PUBLIC
+Thiết bị cùng mạng Lan nội bộ có thể sử dụng IP LOCAL
 
-Quý khách đổi mật khẩu mặc định vào trang quản lý và key, mật khẩu của proxy để bảo mật
+Quý khách đổi mật khẩu mặc định vào trang quản lý và key, mật khẩu của proxy để bảo mật và tự quản lý
 
-API
+
+API TÍCH HỢP
 1. API Lấy Proxy
 http://HOST:8000/api/get_proxy?access_key=TOKEN
 
@@ -30,7 +32,7 @@ Key cụ thể của 1 proxy sẽ áp dụng cho proxy (mỗi proxy có key cụ
 HOST thay bằng: xxx.2dproxy.com hoặc IP_PUBLIC hoặc IP_LOCAL
 
 Lưu ý: 
-- Với phần mềm chạy trên máy ảo, máy ảo phải chạy để duy trì hoạt động của proxy và máy chính mới có mạng, Nếu tắt máy hãy tắt máy ảo trước và tắt máy tính sau.
+- Với phần mềm chạy trên máy ảo, máy ảo phải chạy để duy trì hoạt động của proxy và máy chính mới có mạng, mới khởi động phần mềm có thể mất vài phút để tạo kết nối và máy chính mới có mạng, Nếu tắt máy hãy tắt máy ảo trước và tắt máy tính sau.
 - Trong quá trình sử dụng nếu có proxy nào lỗi thì hãy restart port đó
 - Trường hợp bị tắt nguồn đột ngột như mất điện dịch vụ đang chạy có thể bị lỗi nếu không thấy proxy lên hoặc không đủ theo số Tootal Proxy Quý khách vào từng card mạng trong phần Networks -> Ticks Restart -> Cập nhật lại và kiểm tra lại sau vài phút xem proxy đã lên chưa
 - Để đổi IP nhanh hơn quý khách quý khách đặt Total IP: là tổng phiên (ip) lấy từ nhà mạng LỚN HƠN Total Proxy, phần mềm sẽ lấy từ tổng ip để gán vào các slot proxy sẵn nên nếu có IP dư trước đó việc đổi IP sẽ nhanh hơn
