@@ -20,9 +20,9 @@ Muốn lấy danh sách proxy theo định dạng ip:port:username:password ho�
 
 http://HOST:8000/api/get_proxy?access_key=TOKEN&format=HOST_PROXY|PORT_PROXY|username|password&delimiter=:
 
-Tham số HOST_PROXY thay bằng: host_public hoặc host_local
+Tham số HOST_PROXY thay bằng: host_public hoặc host_local tùy theo chạy local hoặc public
 
-Tham sốPORT_PROXY thay bằng: port_http hoặc port_socks5
+Tham số PORT_PROXY thay bằng: port_http hoặc port_socks5 tùy loại proxy muốn lấy
 
 Tham số delimiter=:  : ở đây là ký tự mong muốn để ngăn cách giữa các thông tin
 
