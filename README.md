@@ -42,7 +42,7 @@ http://HOST:8000/api/change_ip?access_key=TOKEN
 Lưu ý: 
 - Với phần mềm chạy trên máy ảo, máy ảo phải chạy để duy trì hoạt động của proxy và máy chính mới có mạng, mới khởi động phần mềm có thể mất vài phút để tạo kết nối và máy chính mới có mạng, Nếu tắt máy hãy tắt máy ảo trước và tắt máy tính sau.
 - Trong quá trình sử dụng nếu có proxy nào lỗi thì hãy restart port đó
-- Trường hợp bị tắt nguồn đột ngột như mất điện dịch vụ đang chạy có thể bị lỗi nếu không thấy proxy lên hoặc không đủ theo số Total Proxy Quý khách vào từng card mạng trong phần Networks -> Tick Restart -> Cập nhật lại và kiểm tra lại sau vài phút xem proxy đã lên chưa
+- Trường hợp bị tắt nguồn đột ngột như mất điện dịch vụ đang chạy có thể bị lỗi nếu proxy lên hoặc không đủ Total Proxy Quý khách vào từng card mạng trong phần Networks -> Tick Restart -> Cập nhật lại và kiểm tra lại sau vài phút xem proxy đã lên chưa
 - Để đổi IP nhanh hơn đặt Total IP: là số phiên của gói đa phiên LỚN HƠN Total Proxy, phần mềm sẽ lấy từ Total IP để gán vào các slot theo số lượng Total Proxy nên nếu có IP dư trước đó việc đổi IP sẽ nhanh hơn
 - Pm dùng 1 phiên để tạo IP Public và ra mạng cho thiết bị sau nó nên số proxy tạo đc sẽ -1
 - Để xác thực phần mềm và hỗ trợ kỹ thuật chúng tôi chỉ truy cập từ xa vào pm kiểm tra khi có vấn đề
