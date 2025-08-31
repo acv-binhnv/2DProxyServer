@@ -47,6 +47,6 @@ Lưu ý:
 - Pm dùng 1 phiên để tạo IP Public và ra mạng cho thiết bị sau nó nên số proxy tạo đc sẽ -1
 - Để xác thực phần mềm và hỗ trợ kỹ thuật chúng tôi chỉ truy cập từ xa vào pm kiểm tra khi có vấn đề
 - Do nhiều yếu tố khách quan khi cài trên máy khách với bản phần mềm chạy trên windows như virus làm hỏng file, đụng độ phần mềm, phần cứng thay đổi, thao tác chỉnh sửa hay cài đặt các ứng dụng khác làm ảnh hưởng tới hoạt động của phần mềm nên chúng tôi chỉ hỗ trợ xử lý vấn đề trong 7 ngày đầu khách chạy
-- Chúng tôi chỉ bán phần mềm cho khách hàng sử dụng theo chức năng của phần mềm nghiêm cấm mọi hành vi phá hoại, crack, dùng kỹ thuật can thiệp ăn cắp mã nguồn vi phạm quyền sở hữu trí tuệ chất xám của chúng tôi
+- Chúng tôi chỉ bán phần mềm cho khách hàng sử dụng theo chức năng của phần mềm nghiêm cấm mọi hành vi sao chép, crack, dùng kỹ thuật can thiệp ăn cắp mã nguồn vi phạm quyền sở hữu trí tuệ chất xám của chúng tôi.
   
 # Cần hỗ trợ thêm vui lòng chat telegram: @net_247
